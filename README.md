@@ -1,3 +1,4 @@
+all code is written for debian-based linux systems
 
 # Steam Game Logging
 
