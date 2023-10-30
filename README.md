@@ -36,3 +36,13 @@ All this information helps to create a detailed record of game duration and user
 
 3. **Detecting Running but Unplayed Games:**
     - The script will detect games that are running but not being played and terminate them to save resources.
+
+4. **Installation Script:**
+    - A streamlined installation process to make the setup of the logging system easier.
+
+5. **Automatic Game Detection and Integration:**
+    - Enhancing the script's capability to automatically detect and integrate new games (note: basic functionality is already present).
+
+6. **Statistics Page:**
+    - An associated statistics page will be developed to provide in-depth evaluations and insights based on the logged data.
+
