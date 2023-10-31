@@ -1,0 +1,18 @@
+[Database]
+host=192.168.178.110
+user=steamuser
+password=databasepw
+database=steamuser
+
+[SteamApps]
+paths=/home/user/.steam/steam/steamapps/, /mnt/Spiele/steamapps/
+#more than one possible. needed to scrape appids of steam-games and added non-steam-games
+
+
+#login via -login - command not working at the moment due to steam. just try
+[Login]
+enable=no
+numbers=no
+position=
+user=
+password=
